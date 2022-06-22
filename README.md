@@ -10,6 +10,6 @@ The data is stored in three files:
 
 * gold_recovery_train.csv — training dataset download
 * gold_recovery_test.csv — test dataset download
-* gold_recovery_full.csv — source dataset download
+* gold_recovery_full.csv — source dataset download, it is too large to upload to this platform as a .csv so it has been compressed into a .rar
 
 Data is indexed with the date and time of acquisition (date feature).
